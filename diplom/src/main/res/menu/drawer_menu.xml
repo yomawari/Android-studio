@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/vhod">
+        <menu>
+            <item  android:title="@string/glavnaya" android:icon="@drawable/logo"  android:id="@+id/main"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/job">
+        <menu>
+            <item android:title="Инвентаризации" android:id="@+id/inventory" android:icon="@drawable/freeicon"/>
+            <item android:title="@string/objects" android:id="@+id/objects" android:icon="@drawable/fre"/>
+            <item android:title="@string/categories" android:id="@+id/categories" android:icon="@drawable/fr"/>
+            <item android:title="@string/types" android:id="@+id/types" android:icon="@drawable/freicon90817"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/vihod">
+        <menu>
+            <item android:title="@string/exit" android:icon="@drawable/exitt" android:id="@+id/exit"/>
+        </menu>
+    </item>
+
+
+
+</menu>

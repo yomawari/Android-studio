@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Diplom</string>
+    <string name="inventory">Инвенторизации</string>
+    <string name="objects">Объекты</string>
+    <string name="categories">Категории</string>
+    <string name="types">Типы</string>
+    <string name="exit">Выход</string>
+    <string name="job">Работа</string>
+    <string name="vhod">Страницы</string>
+    <string name="vihod">Выход из учётной записи</string>
+    <string name="glavnaya">Главная страница</string>
+</resources>
